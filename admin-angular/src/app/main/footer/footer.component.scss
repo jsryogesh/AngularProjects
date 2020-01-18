@@ -1,0 +1,32 @@
+.common-footer {
+    z-index: 100;
+    position: absolute;
+    right: 0;
+}
+.co-footer-nav {
+    display: block;
+    padding-top: 5px;
+}
+
+.co-footer-center {
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Footer */
+.co-footer-bg {
+    border-top: 1px solid #f0f0f0;
+    padding: 0.5rem 0;
+    font-size: .9rem;
+}
+.co-footer-nav .list-group-item{ 
+    padding: 0;
+    background: transparent;
+    border: 0;
+    padding-left: 1rem;
+    display: inline-block;
+}
+.co-footer-text {
+ color:#C3C3C3;
+}
+/* Footer Ends */
